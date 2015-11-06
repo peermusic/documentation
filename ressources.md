@@ -36,3 +36,4 @@
 
 # Similar projects
 - [fastcast](https://github.com/fastcast/fastcast)
+- [multipass-torrent](https://github.com/jaruba/multipass-torrent)
