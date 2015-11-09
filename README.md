@@ -1,7 +1,8 @@
 # Planning
 
-- [User-stories](https://github.com/peermusic/user-stories)
-- [Research](https://github.com/peermusic/research)
+- **Repositories**
+  - [user-stories](https://github.com/peermusic/user-stories)
+  - [research](https://github.com/peermusic/research)
 
 
 ***
