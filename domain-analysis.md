@@ -22,17 +22,18 @@ This provides me with a first conceptual frame to look at the field.
 
 These are the services that seem to be the relevant contenders to the field:
 
-- [ ] Amazon Music
+- [x] [Amazon Music](#amazon-music)
 - [ ] Google Music
 - [ ] iTunes
 - [ ] Lastfm.com
 - [ ] MTV Television
-- [x] Soundcloud.com
-- [x] Spotify.com
-- [x] Tribler
+- [x] [Plex](#plex)
+- [x] [Soundcloud](#soundcloud)
+- [x] [Spotify](#spotify)
+- [x] [Tribler](#tribler)
 - [ ] Youtube
 
-From this plain list I will pick a few and go into the details of their offering.
+From this plain list I will pick a few (marked) and go into the details of their offering.
 
 
 ### "Spotify"
@@ -108,7 +109,7 @@ Monetization happens on the creators side.
 
 *My understanding of their business model:*
 
-> **Consumer side:** We allow you to preview and buy music online. We help you discover new music you like. You can then download it or listen to it using our web player. You can also upload your own music to have one place to manage all your music.
+> **Consumer side:** We allow you to preview and buy music online. We help you discover new music you like. You can then download it or listen to it using our web player after you have purchased it from us. You can also upload your own music to have one place to manage all your music. 
 
 > **Creator side:** You can offer your music for purchase on our website.
 
@@ -117,13 +118,13 @@ Monetization happens on the consumers side.
 
 ### "Tribler"
 
-- Torrent network
+- **Torrent network**
 - Collaborative/shared downloading<sup>[4][4]</sup>
 - Desktop streaming
-- Distribured index
-- Tries to generically recommend download candidates based on downloading history
+- **Distribured index**
+- Tries to generically **recommend download candidates** based on downloading history
 - Users can group to spread or faster download content
-- Strives to be a zero-server p2p network<sup>[5][5]</sup>
+- Strives to be a **zero-server p2p network**<sup>[5][5]</sup>
 
 #### Business model
 
@@ -135,9 +136,32 @@ Monetization happens on the consumers side.
 
 Montization happens through grants. This is a scientific project.
 
+### Plex
+
+- Desktop and smartphone streaming
+- **"10-foot user interface"**<sup>[5][5]</sup>
+- Uses the users **own music/movies/pictures**
+- Server-client streaming infrastructure
+- **Identifies music and movies**<sup>[6][6]</sup>
+- **Automatically acquires thumbnails and synopsis**<sup>[6][6]</sup>
+- **Transcodes** to accomodate mobile clients<sup>[7][7]</sup>
+- Music is **automatically grouped** by categories such as "mood"<sup>[6][6]</sup>
+- Can acquire content from iTunes, iPhoto, Aperture<sup>[5][5]</sup>
+
+#### Business model
+
+*My understanding of their business model:*
+
+> **Consumer side:** We provide you with an easy way to consume your own media may it be photos, music or videos. You host your own infrastructure and we provide you the software. You can conveniently stream via your mobile device. We preprocess your files and add thumbnails and synopsis. We also order in a meaningfull way so you music so you can play it easily. Some of these features and faster access to new ones are bound to a recurring fee.
+
+> **Creator side:** No offering.
+
+Monetization happens on the consumers side.
 
 [1]: https://en.wikipedia.org/w/index.php?title=Spotify&oldid=687804596
 [2]: https://en.wikipedia.org/w/index.php?title=SoundCloud&oldid=688027513
 [3]: https://en.wikipedia.org/w/index.php?title=Amazon_Music&oldid=676049603
 [4]: https://tribler.org/CooperativeDownload/
 [5]: http://tribler.org/4thGenerationP2P/
+[6]: https://plex.tv/music
+[7]: https://plex.tv/subscription/about
