@@ -121,9 +121,9 @@ Monetization happens on the consumers side.
 - **Torrent network**
 - Collaborative/shared downloading<sup>[4][4]</sup>
 - Desktop streaming
-- **Distribured index**
-- Tries to generically **recommend download candidates** based on downloading history
-- Users can group to spread or faster download content
+- **Distribured search**<sup>[10][10]</sup>
+- Tries to generically **recommend download candidates** based on downloading history<sup>[9][9]</sup>
+- Users can group to spread or faster download content<sup>[8][8]</sup>
 - Strives to be a **zero-server p2p network**<sup>[5][5]</sup>
 
 #### Business model
@@ -165,3 +165,6 @@ Monetization happens on the consumers side.
 [5]: http://tribler.org/4thGenerationP2P/
 [6]: https://plex.tv/music
 [7]: https://plex.tv/subscription/about
+[8]: https://www.tribler.org/CooperativeDownload/
+[9]: https://www.tribler.org/DecentralizedRecommendation/
+[10]: https://www.tribler.org/ContentSearch/
