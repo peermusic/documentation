@@ -1,4 +1,4 @@
-# Domain analysis
+# Domain analysis (technical)
 
     State of the art, competition
 
