@@ -36,7 +36,7 @@ These are the services that seem to be the relevant contenders to the field:
 From this plain list I will pick a few (marked) and go into the details of their offering.
 
 
-### "Spotify" `freemium`
+### "Spotify"
 
 - Desktop and smartphone streaming
 - ~ 75 million users in 2015<sup>[1][1]</sup>
@@ -58,7 +58,7 @@ From this plain list I will pick a few (marked) and go into the details of their
 - Third-party playes can be used under a premium subscription
 
 
-#### Business model
+#### Business model `freemium`
 
 *My understanding of their business model:*
 
@@ -69,7 +69,7 @@ From this plain list I will pick a few (marked) and go into the details of their
 Monetization happens on the consumers side.
 
 
-### "SoundCloud" `distributor`
+### "SoundCloud"
 
 - Desktop and smartphone streaming
 - ~175 million users in 2014<sup>[2][2]</sup>
@@ -83,7 +83,7 @@ Monetization happens on the consumers side.
 - Was used once to leak a recorded phonecall of a turkish prime minister
 
 
-#### Business model
+#### Business model `distributor`
 
 *My understanding of their business model:*
 
@@ -94,7 +94,7 @@ Monetization happens on the consumers side.
 Monetization happens on the creators side.
 
 
-### "Amazon Music" `distributor`
+### "Amazon Music"
 
 - **~29.1 million songs** in 2015<sup>[3][3]</sup>
 - Desktop and smartphone streaming
@@ -105,7 +105,7 @@ Monetization happens on the creators side.
 - Recommends music
 
 
-#### Business model
+#### Business model `distributor`
 
 *My understanding of their business model:*
 
@@ -116,7 +116,7 @@ Monetization happens on the creators side.
 Monetization happens on the consumers side.
 
 
-### "Tribler" `non-profit`
+### "Tribler"
 
 - **Torrent network**
 - Collaborative/shared downloading<sup>[4][4]</sup>
@@ -126,7 +126,7 @@ Monetization happens on the consumers side.
 - Users can group to spread or faster download content<sup>[8][8]</sup>
 - Strives to be a **zero-server p2p network**<sup>[5][5]</sup>
 
-#### Business model
+#### Business model `non-profit`
 
 *My understanding of their business model:*
 
@@ -136,7 +136,7 @@ Monetization happens on the consumers side.
 
 Montization happens through grants. This is a scientific project.
 
-### Plex `freemium`
+### Plex
 
 - Desktop and smartphone streaming
 - **"10-foot user interface"**<sup>[5][5]</sup>
@@ -149,7 +149,7 @@ Montization happens through grants. This is a scientific project.
 - Can acquire content from iTunes, iPhoto, Aperture<sup>[5][5]</sup>
 - Some of those features need to be unlocked by a subscription
 
-#### Business model
+#### Business model `freemium`
 
 *My understanding of their business model:*
 
