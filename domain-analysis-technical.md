@@ -160,12 +160,22 @@ Montization happens through grants. This is a scientific project.
 Monetization happens on the consumers side.
 
 [1]: https://en.wikipedia.org/w/index.php?title=Spotify&oldid=687804596
+<!-- Accessed on the 27.10.2015 -->
 [2]: https://en.wikipedia.org/w/index.php?title=SoundCloud&oldid=688027513
+<!-- Accessed on the 29.10.2015 -->
 [3]: https://en.wikipedia.org/w/index.php?title=Amazon_Music&oldid=676049603
+<!-- Accessed on the 29.10.2015 -->
 [4]: https://tribler.org/CooperativeDownload/
+<!-- Accessed on the 12.11.2015 -->
 [5]: http://tribler.org/4thGenerationP2P/
+<!-- Accessed on the 12.11.2015 -->
 [6]: https://plex.tv/music
+<!-- Accessed on the 12.11.2015 -->
 [7]: https://plex.tv/subscription/about
+<!-- Accessed on the 12.11.2015 -->
 [8]: https://www.tribler.org/CooperativeDownload/
+<!-- Accessed on the 12.11.2015 -->
 [9]: https://www.tribler.org/DecentralizedRecommendation/
+<!-- Accessed on the 12.11.2015 -->
 [10]: https://www.tribler.org/ContentSearch/
+<!-- Accessed on the 12.11.2015 -->
