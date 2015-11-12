@@ -3,8 +3,8 @@
     State of the art, competition
 
 - [ ] interviewing domain ‘experts’
-- [ ] existing relevant documentation
-- [ ] procedure manuals, job descriptions and forms
+- [x] existing relevant documentation
+- [x] procedure manuals, job descriptions and forms
 
 
 ## The field
