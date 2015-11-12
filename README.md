@@ -1,8 +1,10 @@
 # Planning
 
-- **Repositories**
-  - [user-stories](https://github.com/peermusic/user-stories)
-  - [research](https://github.com/peermusic/research)
+- **Contents**
+  - [Domain analysis: technical](domain-analysis-technical.md)
+  - [Domain analysis: interface](domain-analysis-interface.md)
+  - [Technical design](design-technical.md)
+  - [Interface design](design-interface.md)
 
 
 ***
