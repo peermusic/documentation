@@ -66,7 +66,7 @@ From this plain list I will pick a few (marked) and go into the details of their
 
 > **Creator side:** You can distribute your music and receive a share of the profit depending on how much your music gets played.
 
-Monetization happens on the consumers side `freemium`.
+Monetization happens on the consumers side. `freemium`
 
 
 ### "SoundCloud"
@@ -157,7 +157,7 @@ Montization happens through grants. This is a scientific project.
 
 > **Creator side:** No offering.
 
-Monetization happens on the consumers side `freemium`.
+Monetization happens on the consumers side. `freemium`
 
 [1]: https://en.wikipedia.org/w/index.php?title=Spotify&oldid=687804596
 [2]: https://en.wikipedia.org/w/index.php?title=SoundCloud&oldid=688027513
