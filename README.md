@@ -1,7 +1,7 @@
 # Planning
 
 - **Contents**
-  - [Introduction](introduction.md)
+  1. [Introduction](introduction.md)
   - [Domain analysis: technical](domain-analysis-technical.md)
   - [Domain analysis: interface](domain-analysis-interface.md)
   - [Technical design](design-technical.md)
