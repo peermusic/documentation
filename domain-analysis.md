@@ -38,9 +38,9 @@ From this plain list I will pick a few (marked) and go into the details of their
 
 ### "Spotify"
 
-- **~ 75 million users** in 2015<sup>[1][1]</sup>
 - Desktop and smartphone streaming
-- **~ 20 million songs**<sup>[1][1]</sup>
+- ~ 75 million users in 2015<sup>[1][1]</sup>
+- ~ 20 million songs<sup>[1][1]</sup>
 - Users can create/share playlists and songs
   - Federates friends via Twitter/Facebook
 - Integrate with Last.fm for scrobbling and music recommendations
@@ -66,15 +66,15 @@ From this plain list I will pick a few (marked) and go into the details of their
 
 > **Creator side:** You can distribute your music and receive a share of the profit depending on how much your music gets played.
 
-Monetization happens on the consumers side.
+Monetization happens on the consumers side `freemium`.
 
 
 ### "SoundCloud"
 
-- **~175 million users** in 2014<sup>[2][2]</sup>
 - Desktop and smartphone streaming
+- ~175 million users in 2014<sup>[2][2]</sup>
+- ~12 hours of music are uploaded every minute in 2014 <sup>[2][2]</sup>
 - Content creators are allowed to upload
-- **~12 hours of music are uploaded every minute** in 2014 <sup>[2][2]</sup>
 - Sound files can be **embedded everywhere**
 - Listeners can form groups to organize music
 - Music is depicted as waveforms and users can post **"timed comments"** on specific
@@ -147,6 +147,7 @@ Montization happens through grants. This is a scientific project.
 - **Transcodes** to accomodate mobile clients<sup>[7][7]</sup>
 - Music is **automatically grouped** by categories such as "mood"<sup>[6][6]</sup>
 - Can acquire content from iTunes, iPhoto, Aperture<sup>[5][5]</sup>
+- Some of those features need to be unlocked by a subscription
 
 #### Business model
 
@@ -156,7 +157,7 @@ Montization happens through grants. This is a scientific project.
 
 > **Creator side:** No offering.
 
-Monetization happens on the consumers side.
+Monetization happens on the consumers side `freemium`.
 
 [1]: https://en.wikipedia.org/w/index.php?title=Spotify&oldid=687804596
 [2]: https://en.wikipedia.org/w/index.php?title=SoundCloud&oldid=688027513
