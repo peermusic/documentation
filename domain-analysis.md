@@ -36,7 +36,7 @@ These are the services that seem to be the relevant contenders to the field:
 From this plain list I will pick a few (marked) and go into the details of their offering.
 
 
-### "Spotify"
+### "Spotify" `freemium`
 
 - Desktop and smartphone streaming
 - ~ 75 million users in 2015<sup>[1][1]</sup>
@@ -66,10 +66,10 @@ From this plain list I will pick a few (marked) and go into the details of their
 
 > **Creator side:** You can distribute your music and receive a share of the profit depending on how much your music gets played.
 
-Monetization happens on the consumers side. `freemium`
+Monetization happens on the consumers side.
 
 
-### "SoundCloud"
+### "SoundCloud" `distributor`
 
 - Desktop and smartphone streaming
 - ~175 million users in 2014<sup>[2][2]</sup>
@@ -94,7 +94,7 @@ Monetization happens on the consumers side. `freemium`
 Monetization happens on the creators side.
 
 
-### "Amazon Music"
+### "Amazon Music" `distributor`
 
 - **~29.1 million songs** in 2015<sup>[3][3]</sup>
 - Desktop and smartphone streaming
@@ -116,7 +116,7 @@ Monetization happens on the creators side.
 Monetization happens on the consumers side.
 
 
-### "Tribler"
+### "Tribler" `non-profit`
 
 - **Torrent network**
 - Collaborative/shared downloading<sup>[4][4]</sup>
@@ -136,7 +136,7 @@ Monetization happens on the consumers side.
 
 Montization happens through grants. This is a scientific project.
 
-### Plex
+### Plex `freemium`
 
 - Desktop and smartphone streaming
 - **"10-foot user interface"**<sup>[5][5]</sup>
@@ -157,7 +157,7 @@ Montization happens through grants. This is a scientific project.
 
 > **Creator side:** No offering.
 
-Monetization happens on the consumers side. `freemium`
+Monetization happens on the consumers side.
 
 [1]: https://en.wikipedia.org/w/index.php?title=Spotify&oldid=687804596
 [2]: https://en.wikipedia.org/w/index.php?title=SoundCloud&oldid=688027513
