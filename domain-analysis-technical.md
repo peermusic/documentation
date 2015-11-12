@@ -1,4 +1,4 @@
-# Domain analysis: interface
+# Domain analysis: technical
 
     State of the art, competition
 
