@@ -1,13 +1,6 @@
 # Domain analysis: technical
 
-    State of the art, competition
-
-- [ ] interviewing domain ‘experts’
-- [x] existing relevant documentation
-- [x] procedure manuals, job descriptions and forms
-
-
-## The field
+    What is the state of the art?
 
 I picked the field of **music streaming and sharing**. Here various ideas and business models can be found. Over the curse of the recent years several variations have come to the forefront. I will explore a few of them and try to capture the variety within my selection.
 
@@ -18,7 +11,7 @@ According to Wikipedia users pick their music service according to:<sup>[1][1]</
 This provides me with a first conceptual frame to look at the field.
 
 
-### Contenders
+## Contenders
 
 These are the services that seem to be the relevant contenders to the field:
 
@@ -36,7 +29,7 @@ These are the services that seem to be the relevant contenders to the field:
 From this plain list I will pick a few (marked) and go into the details of their offering.
 
 
-### "Spotify"
+## "Spotify"
 
 - Desktop and smartphone streaming
 - ~ 75 million users in 2015<sup>[1][1]</sup>
@@ -58,7 +51,7 @@ From this plain list I will pick a few (marked) and go into the details of their
 - Third-party playes can be used under a premium subscription
 
 
-#### Business model `freemium`
+### Business model `freemium`
 
 *My understanding of their business model:*
 
@@ -69,7 +62,7 @@ From this plain list I will pick a few (marked) and go into the details of their
 Monetization happens on the consumers side.
 
 
-### "SoundCloud"
+## "SoundCloud"
 
 - Desktop and smartphone streaming
 - ~175 million users in 2014<sup>[2][2]</sup>
@@ -83,7 +76,7 @@ Monetization happens on the consumers side.
 - Was used once to leak a recorded phonecall of a turkish prime minister
 
 
-#### Business model `distributor`
+### Business model `distributor`
 
 *My understanding of their business model:*
 
@@ -94,7 +87,7 @@ Monetization happens on the consumers side.
 Monetization happens on the creators side.
 
 
-### "Amazon Music"
+## "Amazon Music"
 
 - **~29.1 million songs** in 2015<sup>[3][3]</sup>
 - Desktop and smartphone streaming
@@ -105,7 +98,7 @@ Monetization happens on the creators side.
 - Recommends music
 
 
-#### Business model `distributor`
+### Business model `distributor`
 
 *My understanding of their business model:*
 
@@ -116,7 +109,7 @@ Monetization happens on the creators side.
 Monetization happens on the consumers side.
 
 
-### "Tribler"
+## "Tribler"
 
 - **Torrent network**
 - Collaborative/shared downloading<sup>[4][4]</sup>
@@ -126,7 +119,7 @@ Monetization happens on the consumers side.
 - Users can group to spread or faster download content<sup>[8][8]</sup>
 - Strives to be a **zero-server p2p network**<sup>[5][5]</sup>
 
-#### Business model `non-profit`
+### Business model `non-profit`
 
 *My understanding of their business model:*
 
@@ -136,7 +129,7 @@ Monetization happens on the consumers side.
 
 Montization happens through grants. This is a scientific project.
 
-### Plex
+## Plex
 
 - Desktop and smartphone streaming
 - **"10-foot user interface"**<sup>[5][5]</sup>
@@ -149,7 +142,7 @@ Montization happens through grants. This is a scientific project.
 - Can acquire content from iTunes, iPhoto, Aperture<sup>[5][5]</sup>
 - Some of those features need to be unlocked by a subscription
 
-#### Business model `freemium`
+### Business model `freemium`
 
 *My understanding of their business model:*
 
