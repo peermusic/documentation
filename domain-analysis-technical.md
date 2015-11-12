@@ -2,7 +2,7 @@
 
     What is the state of the art?
 
-I picked the field of **music streaming and sharing**. Here various ideas and business models can be found. Over the curse of the recent years several variations have come to the forefront. I will explore a few of them and try to capture the variety within my selection.
+Within the field of **music streaming and sharing** various ideas and business models can be found. Over the curse of the recent years several variations have come to the forefront. I will explore a few of them and try to capture the variety within my selection.
 
 According to Wikipedia users pick their music service according to:<sup>[1][1]</sup>
 
@@ -50,7 +50,6 @@ From this plain list I will pick a few (marked) and go into the details of their
 - **Lack of privacy**: Users expose the way they listen to music to Spotify
 - Third-party playes can be used under a premium subscription
 
-
 ### Business model `freemium`
 
 *My understanding of their business model:*
@@ -75,7 +74,6 @@ Monetization happens on the consumers side.
 - Payed accounts allow for more music to be uploaded
 - Was used once to leak a recorded phonecall of a turkish prime minister
 
-
 ### Business model `distributor`
 
 *My understanding of their business model:*
@@ -96,7 +94,6 @@ Monetization happens on the creators side.
 - **Music needs to be purchased** or uploaded before it can be listened to fully
 - **Devices need to be activated** in order for the web player to work. 10 devices can be activated.
 - Recommends music
-
 
 ### Business model `distributor`
 
@@ -129,6 +126,7 @@ Monetization happens on the consumers side.
 
 Montization happens through grants. This is a scientific project.
 
+
 ## Plex
 
 - Desktop and smartphone streaming
@@ -151,6 +149,8 @@ Montization happens through grants. This is a scientific project.
 > **Creator side:** No offering.
 
 Monetization happens on the consumers side.
+
+
 
 [1]: https://en.wikipedia.org/w/index.php?title=Spotify&oldid=687804596
 <!-- Accessed on the 27.10.2015 -->
